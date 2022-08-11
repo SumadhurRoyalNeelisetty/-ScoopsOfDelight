@@ -17,7 +17,7 @@ Static Web Apps, Visual Studio Code,
 
 
 ## Home page
-![image](https://user-images.githubusercontent.com/88928982/184057908-b1467395-8b50-4645-a3f2-9db320e55f07.png)
+![image](https://user-images.githubusercontent.com/88928982/184058230-2c84ee74-5620-4587-8a30-e71c28c7de38.png)
 
 
 ## Our works
